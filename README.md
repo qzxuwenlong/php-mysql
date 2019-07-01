@@ -16,4 +16,5 @@ mysql基本的增删改查
  array_push($arr,array("字段名"=>$rot['字段名'],"字段名1"=>$rot['字段名1'])); //转换成json，返回给前端，也是所谓的接口` </br>
 ![image](https://github.com/qzxuwenlong/php-mysql/blob/master/img/2bda0ee4ed6de97a49632e186b25b6f.png)
 # php的pdo代码流程
-
+![image](https://github.com/qzxuwenlong/php-mysql/blob/master/img/1562012658(1).png)
+* 第一次见这函数，之前只是做简单的增删改查，
