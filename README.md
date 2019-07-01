@@ -12,4 +12,4 @@ mysql基本的增删改查
 * $rows=mysql_quer($sql,$con);  //发送请求数据
 * while($row=mysql_fatch_array($rows)); //获取请求的数据
 echo $rot['字段名'];
-[新版连接方式](https://github.com/qzxuwenlong/php-mysql/blob/master/img/2bda0ee4ed6de97a49632e186b25b6f.png)
+![image](https://github.com/qzxuwenlong/php-mysql/blob/master/img/2bda0ee4ed6de97a49632e186b25b6f.png)
