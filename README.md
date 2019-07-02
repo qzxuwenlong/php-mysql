@@ -18,3 +18,7 @@ mysql基本的增删改查
 # php的pdo代码流程
 ![image](https://github.com/qzxuwenlong/php-mysql/blob/master/img/1562012658(1).png)
 * 第一次见这函数，之前只是做简单的增删改查，
+PHP 数据对象 （PDO） 扩展为PHP访问数据库定义了一个轻量级的一致接口。
+PDO 提供了一个数据访问抽象层，这意味着，不管使用哪种数据库，都可以用相同的函数（方法）来查询和获取数据。
+PDO随PHP5.1发行，在PHP5.0的PECL扩展中也可以使用，无法运行于之前的PHP版本。
+ **这里的mysql是一个扩展的API，目的是为了简化php对mysql数据库的操作。**
