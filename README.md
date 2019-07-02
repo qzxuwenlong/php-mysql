@@ -22,3 +22,5 @@ PHP 数据对象 （PDO） 扩展为PHP访问数据库定义了一个轻量级�
 PDO 提供了一个数据访问抽象层，这意味着，不管使用哪种数据库，都可以用相同的函数（方法）来查询和获取数据。
 PDO随PHP5.1发行，在PHP5.0的PECL扩展中也可以使用，无法运行于之前的PHP版本。
  **这里的mysql是一个扩展的API，目的是为了简化php对mysql数据库的操作。**
+ 以下是基本操作方式
+ ![image](https://github.com/qzxuwenlong/php-mysql/blob/master/img/pdo.png)
